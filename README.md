@@ -1,1 +1,2 @@
 # Exploratory_Data_Analysis
+A Análise Exploratória de Dados (EDA) é um conjunto de técnicas que ajuda a entender os dados, e todo Analista de Dados e Cientista de Dados deve conhecê-lo a fundo. Aqui disponho as principais técnicas que costumo a utilizar diariamente nas minhas explorações.A Análise Exploratória de Dados (EDA) requer um equilíbrio entre criatividade, inteligência e profundo conhecimento de análise estatística. Um profissional especialista em EDA também deve aprender e internalizar rapidamente as nuances e necessidades de diversos setores e negócios. 
